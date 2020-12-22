@@ -10,7 +10,7 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My CICD job is done with jenkins by PRADEEP Kumar</h1>
+      <h1 class="text-center">My CICD job is done with jenkins by Legato Team</h1>
       <h2 class="text-center">WELCOME to Legato Health Techonoligies</h2>
   </div>
 </body>
